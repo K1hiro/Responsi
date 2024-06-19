@@ -40,11 +40,11 @@ CREATE TABLE `buku` (
 --
 
 INSERT INTO `buku` (`id`, `judul_buku`, `tahun_terbit`, `stok`, `penulis`) VALUES
-(1, 'Saruto Boruto Next Gent', 2022, 50, 1),
-(2, 'Two Pieace', 2024, 99, 3),
-(3, 'Satria Batang Hitam', 2023, 64, 5),
-(7, 'Red Banteng', 2025, 22, 4),
-(11, 'Attack on Wibu', 2024, 22, 9);
+(1, 'Kingdom Of Ohio', 2018, 67, 2),
+(2, 'Mio Mirza 2', 2022, 89, 5),
+(3, 'Petualangan Mas Faiz dan Mas Fuad', 2024, 64, 6),
+(7, 'Ambatron 1', 2021, 34, 3),
+(11, 'Alpha vs Sigma Ohio rizzler', 2024, 21, 7);
 
 -- --------------------------------------------------------
 
